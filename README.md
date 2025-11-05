@@ -11,11 +11,10 @@ It provides insights into total vehicle registrations, average electric range, C
 - Trend analysis of EV registrations over time
 - Data-driven insights on top EV manufacturers
 
-## 📁 Project Structure
-data/ - contains raw dataset (CSV)
-dashboard/ - Tableau workbook (.twbx)
-presentation/ - PowerPoint presentation
-
+### 🧱 Project Structure
+- **data/** → Raw dataset (CSV)
+- **dashboard/** → Tableau workbook (.twbx)
+- **presentation/** → Project presentation (PPT)
 
 ## 🛠️ Tools Used
 - Tableau Public
