@@ -12,7 +12,6 @@ It provides insights into total vehicle registrations, average electric range, C
 - Data-driven insights on top EV manufacturers
 
 ### 🧱 Project Structure
-- **data/** → Raw dataset (CSV)
 - **dashboard/** → Tableau workbook (.twbx)
 - **presentation/** → Project presentation (PPT)
 
